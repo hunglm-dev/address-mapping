@@ -1,6 +1,7 @@
 package com.hunglm.address.mapping.entities.ym;
 
 import com.hunglm.address.mapping.entities.ESDocument;
+import com.hunglm.address.mapping.utils.StringUtils;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.experimental.Accessors;
@@ -17,4 +18,10 @@ public class District extends ESDocument {
   private String name;
   private String type;
   private String cityId;
+  private String normalizeName;
+
+  public void setName(String name) {
+    this.name = name;
+    this.normalizeName = StringUtils.convertUnicodeToEngString(name);
+  }
 }

@@ -1,30 +1,27 @@
 package com.hunglm.address.mapping.entities.his;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Data;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.hunglm.address.mapping.entities.ESDocument;
+import com.hunglm.address.mapping.entities.Normalizeable;
+import com.hunglm.address.mapping.utils.StringUtils;
+import lombok.*;
 import lombok.experimental.Accessors;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-import java.time.Instant;
-@Data
-@Accessors(chain = true)
-@Document("hisDistricts")
-public class HisDistrict {
-  @JsonProperty("_id")
-  @Id
-  private String id;
-  private String hisConnectId;
-  private String cityId;
-  private String hisCityId;
-  private String districtId;
-  private String hisDistrictId;
-  private String name;
-  private String hisName;
-  private String type;
-  private String failedMessage;
-  private Boolean manualFixed;
-  private Boolean syncSucceeded;
-  private Instant createdAt;
-  private Instant updatedAt;
+@Getter
+@Setter
+@ToString
+@Document("175hisDistricts")
+@JsonIgnoreProperties(ignoreUnknown = true)
+public class HisDistrict extends ESDocument implements Normalizeable {
+    @Id
+    private String id;
+    private String cityId;
+    private String name;
+    private String normalizedName;
+
+    public void setNormalizedName(String normalizedName) {
+        this.normalizedName = normalizedName;
+    }
 }

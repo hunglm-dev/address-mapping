@@ -7,3 +7,55 @@ spring:
       database: youmed
       username: youmed
       password: youmed
+app:
+  his-connect:
+    host: http://115.78.11.21:8899/API/YouMed.svc
+    usedAuth: false
+  dictionary:
+    cityDic:
+      - Tỉnh
+      - Tinh
+      - tỉnh
+      - tinh
+      - Thành Phố
+      - Thành phố
+      - thành phố
+      - Thanh Pho
+      - Thanh pho
+      - thanh pho
+      - Tp.
+      - TP.
+      - TP .
+    districtDic:
+      - Quận
+      - Quan
+      - Huyện
+      - Huyen
+      - Thị Xã
+      - Thị xã
+      - Thi Xa
+      - Thi xa
+      - thi xa
+      - thị xã
+      - Thành Phố
+      - Thành phố
+      - thành phố
+      - Thanh Pho
+      - Thanh pho
+      - thanh pho
+    wardDic:
+      - Xã
+      - Xa
+      - xã
+      - xa
+      - Thị trấn
+      - Thị Trấn
+      - thị trấn
+      - thi tran
+      - Thi Tran
+      - Thi tran
+      - Phường
+      - Phừơng
+      - phừơng
+      - phuong
+      - Phuong
