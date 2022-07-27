@@ -1,0 +1,443 @@
+[
+  {
+    "id": "018",
+    "name": "Hòa Bình",
+    "Description": "650000",
+    "Sorted": 28,
+    "Active": true
+  },
+  {
+    "id": "019",
+    "name": "Hà Giang",
+    "Description": "400000",
+    "Sorted": 21,
+    "Active": true
+  },
+  {
+    "id": "020",
+    "name": "Lào Cai",
+    "Description": "420000",
+    "Sorted": 36,
+    "Active": true
+  },
+  {
+    "id": "0210",
+    "name": "Phú Thọ",
+    "Description": "560000",
+    "Sorted": 42,
+    "Active": true
+  },
+  {
+    "id": "0211",
+    "name": "Vĩnh Phúc",
+    "Description": "280000",
+    "Sorted": 61,
+    "Active": true
+  },
+  {
+    "id": "022",
+    "name": "Sơn La",
+    "Description": "250000",
+    "Sorted": 50,
+    "Active": true
+  },
+  {
+    "id": "023",
+    "name": "Lai Châu",
+    "Description": "670000",
+    "Sorted": 33,
+    "Active": true
+  },
+  {
+    "id": "0231",
+    "name": "Điện Biên",
+    "Description": "390000",
+    "Sorted": 17,
+    "Active": true
+  },
+  {
+    "id": "0240",
+    "name": "Bắc Giang",
+    "Description": "220000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0241",
+    "name": "Bắc Ninh",
+    "Description": "790000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "025",
+    "name": "Lạng Sơn",
+    "Description": "850000",
+    "Sorted": 35,
+    "Active": true
+  },
+  {
+    "id": "026",
+    "name": "Cao Bằng",
+    "Description": "900000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "027",
+    "name": "Tuyên Quang",
+    "Description": "320000",
+    "Sorted": 59,
+    "Active": true
+  },
+  {
+    "id": "0280",
+    "name": "Thái Nguyên",
+    "Description": "860000",
+    "Sorted": 53,
+    "Active": true
+  },
+  {
+    "id": "0281",
+    "name": "Bắc Kạn",
+    "Description": "960000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "029",
+    "name": "Yên Bái",
+    "Description": "320000",
+    "Sorted": 62,
+    "Active": true
+  },
+  {
+    "id": "030",
+    "name": "Ninh Bình",
+    "Description": "620000",
+    "Sorted": 40,
+    "Active": true
+  },
+  {
+    "id": "031",
+    "name": "Hải Phòng",
+    "Description": "160000",
+    "Sorted": 26,
+    "Active": true
+  },
+  {
+    "id": "0320",
+    "name": "Hải Dương",
+    "Description": "350000",
+    "Sorted": 25,
+    "Active": true
+  },
+  {
+    "id": "0321",
+    "name": "Hưng Yên",
+    "Description": "580000",
+    "Sorted": 29,
+    "Active": true
+  },
+  {
+    "id": "033",
+    "name": "Quang Ninh",
+    "Description": "360000",
+    "Sorted": 47,
+    "Active": true
+  },
+  {
+    "id": "0350",
+    "name": "Nam Định",
+    "Description": "660000",
+    "Sorted": 38,
+    "Active": true
+  },
+  {
+    "id": "0351",
+    "name": "Hà Nam",
+    "Description": "100000",
+    "Sorted": 22,
+    "Active": true
+  },
+  {
+    "id": "036",
+    "name": "Thái Bình",
+    "Description": "530000",
+    "Sorted": 52,
+    "Active": true
+  },
+  {
+    "id": "037",
+    "name": "Thanh Hóa",
+    "Description": "940000",
+    "Sorted": 54,
+    "Active": true
+  },
+  {
+    "id": "0383",
+    "name": "Nghệ An",
+    "Description": "290000",
+    "Sorted": 39,
+    "Active": true
+  },
+  {
+    "id": "039",
+    "name": "Hà Tĩnh",
+    "Description": "180000",
+    "Sorted": 24,
+    "Active": true
+  },
+  {
+    "id": "04",
+    "name": "Hà Nội",
+    "Description": "100000",
+    "Sorted": 23,
+    "Active": true
+  },
+  {
+    "id": "050",
+    "name": "Dak Lak",
+    "Description": "630000",
+    "Sorted": 15,
+    "Active": true
+  },
+  {
+    "id": "0501",
+    "name": "Dak Nong",
+    "Description": "810000",
+    "Sorted": 16,
+    "Active": true
+  },
+  {
+    "id": "0510",
+    "name": "Quảng Nam",
+    "Description": "520000",
+    "Sorted": 45,
+    "Active": true
+  },
+  {
+    "id": "0511",
+    "name": "Đà Nẵng",
+    "Description": "550000",
+    "Sorted": 14,
+    "Active": true
+  },
+  {
+    "id": "052",
+    "name": "Quảng Bình",
+    "Description": "200000",
+    "Sorted": 44,
+    "Active": true
+  },
+  {
+    "id": "053",
+    "name": "Quảng Trị",
+    "Description": "840000",
+    "Sorted": 48,
+    "Active": true
+  },
+  {
+    "id": "054",
+    "name": "Thừa Thiên Huế",
+    "Description": "530000",
+    "Sorted": 55,
+    "Active": true
+  },
+  {
+    "id": "055",
+    "name": "Quảng Ngãi",
+    "Description": "950000",
+    "Sorted": 46,
+    "Active": true
+  },
+  {
+    "id": "056",
+    "name": "Bình Định",
+    "Description": "820000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "057",
+    "name": "Phú Yên",
+    "Description": "570000",
+    "Sorted": 43,
+    "Active": true
+  },
+  {
+    "id": "058",
+    "name": "Khánh Hòa",
+    "Description": "390000",
+    "Sorted": 30,
+    "Active": true
+  },
+  {
+    "id": "059",
+    "name": "Gia Lai",
+    "Description": "310000",
+    "Sorted": 20,
+    "Active": true
+  },
+  {
+    "id": "060",
+    "name": "KonTum",
+    "Description": "330000",
+    "Sorted": 32,
+    "Active": true
+  },
+  {
+    "id": "061",
+    "name": "Đồng Nai",
+    "Description": "870000",
+    "Sorted": 18,
+    "Active": true
+  },
+  {
+    "id": "062",
+    "name": "Bình Thuận",
+    "Description": "800000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "063",
+    "name": "Lâm Đồng",
+    "Description": "460000",
+    "Sorted": 34,
+    "Active": true
+  },
+  {
+    "id": "064",
+    "name": "Bà Rịa - Vũng Tàu",
+    "Description": "790000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0650",
+    "name": "Bình Dương",
+    "Description": "590000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0651",
+    "name": "Bình Phước",
+    "Description": "830000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "066",
+    "name": "Tây Ninh",
+    "Description": "440000",
+    "Sorted": 51,
+    "Active": true
+  },
+  {
+    "id": "067",
+    "name": "Đồng Tháp",
+    "Description": "600000",
+    "Sorted": 19,
+    "Active": true
+  },
+  {
+    "id": "068",
+    "name": "Ninh Thuận",
+    "Description": "510000",
+    "Sorted": 41,
+    "Active": true
+  },
+  {
+    "id": "070",
+    "name": "Vĩnh Long",
+    "Description": "890000",
+    "Sorted": 60,
+    "Active": true
+  },
+  {
+    "id": "0710",
+    "name": "Cần Thơ",
+    "Description": "270000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "0711",
+    "name": "Hậu Giang",
+    "Description": "700000",
+    "Sorted": 27,
+    "Active": true
+  },
+  {
+    "id": "072",
+    "name": "Long An",
+    "Description": "430000",
+    "Sorted": 37,
+    "Active": true
+  },
+  {
+    "id": "073",
+    "name": "Tiền Giang",
+    "Description": "890000",
+    "Sorted": -1,
+    "Active": true
+  },
+  {
+    "id": "074",
+    "name": "Trà Vinh",
+    "Description": "280000",
+    "Sorted": 58,
+    "Active": true
+  },
+  {
+    "id": "075",
+    "name": "Bến Tre",
+    "Description": "930000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "076",
+    "name": "An Giang",
+    "Description": "880000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "077",
+    "name": "Kiên Giang",
+    "Description": "240000",
+    "Sorted": 31,
+    "Active": true
+  },
+  {
+    "id": "0780",
+    "name": "Cà Mau",
+    "Description": "970000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "0781",
+    "name": "Bạc Liêu",
+    "Description": "260000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "079",
+    "name": "Sóc Trăng",
+    "Description": "410000",
+    "Sorted": 49,
+    "Active": true
+  },
+  {
+    "id": "08",
+    "name": "TP. Hồ Chí Minh",
+    "Description": "700000",
+    "Sorted": 57,
+    "Active": true
+  }
+]

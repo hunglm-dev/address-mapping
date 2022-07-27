@@ -21,7 +21,7 @@ public class BaseController {
   private final IntegrateService integrateService;
 
   @GetMapping("clone-his-address")
-  public ResponseEntity<String> cloneHisAddress() {
+  public ResponseEntity<String> cloneHisAddress() throws IOException {
     hisConnectService.getAllHisCities();
     return ResponseEntity.ok("OK");
   }
@@ -65,6 +65,16 @@ public class BaseController {
   @GetMapping("integrate-wards")
   public ResponseEntity<String> integrateWards(@RequestParam(value = "hisConnectId", required = true) String hisConnectId) {
     integrateService.integreateWards(hisConnectId);
+    return ResponseEntity.ok("OK");
+  }
+  @GetMapping("sync-speciality")
+  public ResponseEntity<String> syncSpecialities(@RequestParam(value = "serviceId") String serviceId){
+    hisConnectService.getAllSpecialities(serviceId);
+    return ResponseEntity.ok("OK");
+  }
+  @GetMapping("sync-examTypes")
+  public ResponseEntity<String> syncExamTypes(@RequestParam(value = "serviceId") String serviceId){
+    hisConnectService.getAllExamType(serviceId);
     return ResponseEntity.ok("OK");
   }
 }

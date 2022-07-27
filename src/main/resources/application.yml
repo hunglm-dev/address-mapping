@@ -29,6 +29,10 @@ app:
     districtDic:
       - Quận
       - Quan
+      - Q.
+      - q.
+      - Q.
+      - q.
       - Huyện
       - Huyen
       - Thị Xã
@@ -37,6 +41,11 @@ app:
       - Thi xa
       - thi xa
       - thị xã
+      - TX.
+      - tx.
+      - Tx.
+      - Tp.
+      - TP.
       - Thành Phố
       - Thành phố
       - thành phố

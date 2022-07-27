@@ -1,0 +1,5514 @@
+[
+  {
+    "id": "018_01",
+    "name": "TX.Hòa Bình",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "018_02",
+    "name": "Đà Bắc",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "018_03",
+    "name": "Mai Châu",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "018_04",
+    "name": "Cao Phong",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "018_05",
+    "name": "Lương Sơn",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "018_06",
+    "name": "Kim Bôi",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "018_07",
+    "name": "Tân Lạc",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "018_08",
+    "name": "Lạc Sơn",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "018_09",
+    "name": "Lạc Thủy",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "018_10",
+    "name": "Yên Thủy",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "018_11",
+    "name": "Kỳ Sơn",
+    "cityId": "018",
+    "Description": "650000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "019_01",
+    "name": "TX.Hà Giang",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "019_02",
+    "name": "Đồng Văn",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "019_03",
+    "name": "Mèo Vạc",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "019_04",
+    "name": "Yên Minh",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "019_05",
+    "name": "Quản Bạ",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "019_06",
+    "name": "Bắc Mê",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "019_07",
+    "name": "Hoàng Su Phì",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "019_08",
+    "name": "Vị Xuyên",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "019_09",
+    "name": "Xín Mần",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "019_10",
+    "name": "Bắc Quang",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "019_11",
+    "name": "Quang Bình",
+    "cityId": "019",
+    "Description": "400000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "020_01",
+    "name": "TP.Lào Cai",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "020_02",
+    "name": "Bảo Thắng",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "020_03",
+    "name": "Bát Xát",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "020_04",
+    "name": "Bảo Yên",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "020_05",
+    "name": "Bắc Hà",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "020_06",
+    "name": "Mường Khương",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "020_07",
+    "name": "Sa Pa",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "020_08",
+    "name": "Si Ma Cai",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "020_09",
+    "name": "Văn Bàn",
+    "cityId": "020",
+    "Description": "420000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0210_01",
+    "name": "Việt Trì",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0210_02",
+    "name": "Phú Thọ",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0210_03",
+    "name": "Cẩm Khê",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0210_04",
+    "name": "Đoan Hùng",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0210_05",
+    "name": "Hạ Hòa",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0210_06",
+    "name": "Lâm Thao",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0210_07",
+    "name": "Phù Ninh",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0210_08",
+    "name": "Thanh Ba",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0210_09",
+    "name": "Thanh Sơn",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0210_10",
+    "name": "Thanh Thuỷ",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "0210_11",
+    "name": "Yên Lập",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "0210_12",
+    "name": "Tam Nông",
+    "cityId": "0210",
+    "Description": "560000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "0211_01",
+    "name": "Vĩnh Yên",
+    "cityId": "0211",
+    "Description": "280000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0211_02",
+    "name": "Phúc Yên",
+    "cityId": "0211",
+    "Description": "280000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0211_03",
+    "name": "Bình Xuyên",
+    "cityId": "0211",
+    "Description": "280000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0211_04",
+    "name": "Lập Thạch",
+    "cityId": "0211",
+    "Description": "280000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0211_05",
+    "name": "Tam Dương",
+    "cityId": "0211",
+    "Description": "280000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0211_06",
+    "name": "Tam Đảo",
+    "cityId": "0211",
+    "Description": "280000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0211_07",
+    "name": "Vĩnh Tường",
+    "cityId": "0211",
+    "Description": "280000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0211_08",
+    "name": "Yên Lạc",
+    "cityId": "0211",
+    "Description": "280000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "022_01",
+    "name": "TX.Sơn La",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "022_02",
+    "name": "Quỳnh Nhai",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "022_03",
+    "name": "Mường La",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "022_04",
+    "name": "Thuận Châu",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "022_05",
+    "name": "Phù Yên",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "022_06",
+    "name": "Bắc Yên",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "022_07",
+    "name": "Mai Sơn",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "022_08",
+    "name": "Sông Mã",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "022_09",
+    "name": "Yên Châu",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "022_10",
+    "name": "Mộc Châu",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "022_11",
+    "name": "Sốp Cộp",
+    "cityId": "022",
+    "Description": "250000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "023_01",
+    "name": "TX.Lai Châu",
+    "cityId": "023",
+    "Description": "670000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "023_02",
+    "name": "Tam Đường",
+    "cityId": "023",
+    "Description": "670000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "023_03",
+    "name": "Sìn Hồ",
+    "cityId": "023",
+    "Description": "670000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "023_04",
+    "name": "Than Uyên",
+    "cityId": "023",
+    "Description": "670000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "023_05",
+    "name": "Phong Thổ",
+    "cityId": "023",
+    "Description": "670000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "023_06",
+    "name": "Mường Tè",
+    "cityId": "023",
+    "Description": "670000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0231_01",
+    "name": "TP.Điện Biên Phủ",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0231_02",
+    "name": "TX.Mường Lay",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0231_03",
+    "name": "Tủa Chùa",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0231_04",
+    "name": "Tuần Giáo",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0231_05",
+    "name": "Điện Biên",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0231_06",
+    "name": "Điện Biên Đông",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0231_07",
+    "name": "Mường Nhé",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0231_08",
+    "name": "Mường Chà",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0231_09",
+    "name": "Mường Ẳng",
+    "cityId": "0231",
+    "Description": "390000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0240_01",
+    "name": "Bắc Giang",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0240_02",
+    "name": "Yên Thế",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0240_03",
+    "name": "Tân Yên",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0240_04",
+    "name": "Lục Ngạn",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0240_05",
+    "name": "Hiệp Hoà",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0240_06",
+    "name": "Lạng Giang",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0240_07",
+    "name": "Sơn Động",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0240_08",
+    "name": "Lục Nam",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0240_09",
+    "name": "Việt Yên",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0240_10",
+    "name": "Yên Dũng",
+    "cityId": "0240",
+    "Description": "220000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "0241_01",
+    "name": "Bắc Ninh",
+    "cityId": "0241",
+    "Description": "790000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0241_02",
+    "name": "Gia Bình",
+    "cityId": "0241",
+    "Description": "790000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0241_03",
+    "name": "Lương Tài",
+    "cityId": "0241",
+    "Description": "790000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0241_04",
+    "name": "Quế Võ",
+    "cityId": "0241",
+    "Description": "790000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0241_05",
+    "name": "Thuận Thành",
+    "cityId": "0241",
+    "Description": "790000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0241_06",
+    "name": "Tiên Du",
+    "cityId": "0241",
+    "Description": "790000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0241_07",
+    "name": "Từ Sơn",
+    "cityId": "0241",
+    "Description": "790000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0241_08",
+    "name": "Yên Phong",
+    "cityId": "0241",
+    "Description": "790000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "025_01",
+    "name": "Lạng Sơn",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "025_02",
+    "name": "Tràng Định",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "025_03",
+    "name": "Văn Lãng",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "025_04",
+    "name": "Văn Quan",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "025_05",
+    "name": "Bình Gia",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "025_06",
+    "name": "Bắc Sơn",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "025_07",
+    "name": "Hữu Lũng",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "025_08",
+    "name": "Chi Lăng",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "025_09",
+    "name": "Cao Lộc",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "025_10",
+    "name": "Lộc Bình",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "025_11",
+    "name": "Đình Lập",
+    "cityId": "025",
+    "Description": "850000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "026_01",
+    "name": "Cao Bằng",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "026_02",
+    "name": "Bảo Lạc",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "026_03",
+    "name": "Bảo Lâm",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "026_04",
+    "name": "Hạ Lang",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "026_05",
+    "name": "Hà Quảng",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "026_06",
+    "name": "Hoà An",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "026_07",
+    "name": "Nguyên Bình",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "026_08",
+    "name": "Phục Hoà",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "026_09",
+    "name": "Quảng Uyên",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "026_10",
+    "name": "Thạch An",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "026_11",
+    "name": "Thông Nông",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "026_12",
+    "name": "Trà Lĩnh",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "026_13",
+    "name": "Trùng Khánh",
+    "cityId": "026",
+    "Description": "900000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "027_01",
+    "name": "Tuyên Quang",
+    "cityId": "027",
+    "Description": "320000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "027_02",
+    "name": "Chiêm Hoá",
+    "cityId": "027",
+    "Description": "320000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "027_03",
+    "name": "Hàm Yên",
+    "cityId": "027",
+    "Description": "320000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "027_04",
+    "name": "Nà Hang",
+    "cityId": "027",
+    "Description": "320000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "027_05",
+    "name": "Sơn Dương",
+    "cityId": "027",
+    "Description": "320000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "027_06",
+    "name": "Yên Sơn",
+    "cityId": "027",
+    "Description": "320000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0280_01",
+    "name": "Thái Nguyên",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0280_02",
+    "name": "Sông Công",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0280_03",
+    "name": "Phổ Yên",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0280_04",
+    "name": "Phú Bình",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0280_05",
+    "name": "Đồng Hỷ",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0280_06",
+    "name": "Võ Nhai",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0280_07",
+    "name": "Định Hóa",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0280_08",
+    "name": "Đại Từ",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0280_09",
+    "name": "Phú Lương",
+    "cityId": "0280",
+    "Description": "860000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0281_01",
+    "name": "TX.Bắc Kạn",
+    "cityId": "0281",
+    "Description": "960000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0281_02",
+    "name": "Ba Bể",
+    "cityId": "0281",
+    "Description": "960000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0281_03",
+    "name": "Bạch Thông",
+    "cityId": "0281",
+    "Description": "960000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0281_04",
+    "name": "Chợ Đồn",
+    "cityId": "0281",
+    "Description": "960000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0281_05",
+    "name": "Chợ Mới",
+    "cityId": "0281",
+    "Description": "960000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0281_06",
+    "name": "Na Rì",
+    "cityId": "0281",
+    "Description": "960000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0281_07",
+    "name": "Ngân Sơn",
+    "cityId": "0281",
+    "Description": "960000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0281_08",
+    "name": "Pác Nặm",
+    "cityId": "0281",
+    "Description": "960000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "029_01",
+    "name": "Yên Bái",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "029_02",
+    "name": "Nghĩa Lộ",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "029_03",
+    "name": "Lục Yên",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "029_04",
+    "name": "Mù Cang Chải",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "029_05",
+    "name": "Trấn Yên",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "029_06",
+    "name": "Trạm Tấu",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "029_07",
+    "name": "Văn Chấn",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "029_08",
+    "name": "Văn Yên",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "029_09",
+    "name": "Yên Bình",
+    "cityId": "029",
+    "Description": "320000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "030_01",
+    "name": "Ninh Bình",
+    "cityId": "030",
+    "Description": "620000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "030_02",
+    "name": "Tam Điệp",
+    "cityId": "030",
+    "Description": "620000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "030_03",
+    "name": "Gia Viễn",
+    "cityId": "030",
+    "Description": "620000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "030_04",
+    "name": "Hoa Lư",
+    "cityId": "030",
+    "Description": "620000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "030_05",
+    "name": "Kim Sơn",
+    "cityId": "030",
+    "Description": "620000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "030_06",
+    "name": "Nho Quan",
+    "cityId": "030",
+    "Description": "620000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "030_07",
+    "name": "Yên Khánh",
+    "cityId": "030",
+    "Description": "620000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "030_08",
+    "name": "Yên Mô",
+    "cityId": "030",
+    "Description": "620000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "031_01",
+    "name": "Q.Đồ Sơn",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "031_02",
+    "name": "Q.Hồng Bàng",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "031_03",
+    "name": "Q.Ngô Quyền",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "031_04",
+    "name": "Q.Lê Chân",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "031_05",
+    "name": "Q.Kiến An",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "031_06",
+    "name": "Thủy Nguyên",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "031_07",
+    "name": "An Lão",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "031_08",
+    "name": "Tiên Lãng",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "031_09",
+    "name": "Vĩnh Bảo",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "031_10",
+    "name": "Kiến Thụy",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "031_11",
+    "name": "Cát Hải",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "031_12",
+    "name": "Bạch Long Vĩ",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "031_13",
+    "name": "An Dương",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "031_14",
+    "name": "Q.Hải An",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "031_15",
+    "name": "Q.Dương Kinh",
+    "cityId": "031",
+    "Description": "160000",
+    "Sorted": 14,
+    "Active": true
+  },
+  {
+    "id": "0320_01",
+    "name": "Hải Dương",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0320_02",
+    "name": "Bình Giang",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0320_03",
+    "name": "Cẩm Giàng",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0320_04",
+    "name": "Chí Linh",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0320_05",
+    "name": "Gia Lộc",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0320_06",
+    "name": "Kim Thành",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0320_07",
+    "name": "Kinh Môn",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0320_08",
+    "name": "Nam Sách",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0320_09",
+    "name": "Ninh Giang",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0320_10",
+    "name": "Thanh Hà",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "0320_11",
+    "name": "Thanh Miện",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "0320_12",
+    "name": "Tứ Kỳ",
+    "cityId": "0320",
+    "Description": "350000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "0321_01",
+    "name": "Hưng Yên",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0321_02",
+    "name": "Ân Thi",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0321_03",
+    "name": "Khoái Châu",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0321_04",
+    "name": "Kim Động",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0321_05",
+    "name": "Mỹ Hào",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0321_06",
+    "name": "Phù Cừ",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0321_07",
+    "name": "Tiên Lữ",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0321_08",
+    "name": "Văn Giang",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0321_09",
+    "name": "Văn Lâm",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0321_10",
+    "name": "Yên Mỹ",
+    "cityId": "0321",
+    "Description": "580000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "033_01",
+    "name": "TP.Hạ Long",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "033_02",
+    "name": "TX.Cẩm Phả",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "033_03",
+    "name": "TX.Móng Cái",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "033_04",
+    "name": "TX.Uông Bí",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "033_05",
+    "name": "Ba Chẽ",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "033_06",
+    "name": "Bình Liêu",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "033_07",
+    "name": "Cô Tô",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "033_08",
+    "name": "Đầm Hà",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "033_09",
+    "name": "Đông Triều",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "033_10",
+    "name": "Hải Hà",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "033_11",
+    "name": "Hoành Bồ",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "033_12",
+    "name": "Tiên Yên",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "033_13",
+    "name": "Vân Đồn",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "033_14",
+    "name": "Yên Hưng",
+    "cityId": "033",
+    "Description": "360000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "0350_01",
+    "name": "Nam Định",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0350_02",
+    "name": "Giao Thủy",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0350_03",
+    "name": "Hải Hậu",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0350_04",
+    "name": "Mỹ Lộc",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0350_05",
+    "name": "Nam Trực",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0350_06",
+    "name": "Nghĩa Hưng",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0350_07",
+    "name": "Trực Ninh",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0350_08",
+    "name": "Vụ Bản",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0350_09",
+    "name": "Xuân Trường",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0350_10",
+    "name": "Ý Yên",
+    "cityId": "0350",
+    "Description": "660000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "0351_01",
+    "name": "Phủ Lý",
+    "cityId": "0351",
+    "Description": "100000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0351_02",
+    "name": "Bình Lục",
+    "cityId": "0351",
+    "Description": "100000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0351_03",
+    "name": "Duy Tiên",
+    "cityId": "0351",
+    "Description": "100000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0351_04",
+    "name": "Kim Bảng",
+    "cityId": "0351",
+    "Description": "100000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0351_05",
+    "name": "Lý Nhân",
+    "cityId": "0351",
+    "Description": "100000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0351_06",
+    "name": "Thanh Liêm",
+    "cityId": "0351",
+    "Description": "100000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "036_001",
+    "name": "TP. Thái Bình",
+    "cityId": "036",
+    "Description": "530000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "036_002",
+    "name": "Đông Hưng",
+    "cityId": "036",
+    "Description": "530000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "036_003",
+    "name": "Hưng Hà",
+    "cityId": "036",
+    "Description": "530000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "036_004",
+    "name": "Kiến Xương",
+    "cityId": "036",
+    "Description": "530000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "036_005",
+    "name": "Quỳnh Phụ",
+    "cityId": "036",
+    "Description": "530000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "036_006",
+    "name": "Thái Thụy",
+    "cityId": "036",
+    "Description": "530000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "036_007",
+    "name": "Tiền Hải",
+    "cityId": "036",
+    "Description": "530000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "036_008",
+    "name": "Vũ Thư",
+    "cityId": "036",
+    "Description": "530000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "037_01",
+    "name": "Thanh Hóa",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "037_02",
+    "name": "Bỉm Sơn",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "037_03",
+    "name": "Sầm Sơn",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "037_04",
+    "name": "Như Xuân",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "037_05",
+    "name": "Như Thanh",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "037_06",
+    "name": "Thường Xuân",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "037_07",
+    "name": "Lang Chánh",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "037_08",
+    "name": "Bá Thước",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "037_09",
+    "name": "Quan Hoá",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "037_10",
+    "name": "Quan Sơn",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "037_11",
+    "name": "Mường Lát",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "037_12",
+    "name": "Ngọc Lạc",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "037_13",
+    "name": "Cẩm Thuỷ",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "037_14",
+    "name": "Thạch Thành",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "037_15",
+    "name": "Huyên Hoằng Hoá",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 14,
+    "Active": true
+  },
+  {
+    "id": "037_16",
+    "name": "Vĩnh Lộc",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 15,
+    "Active": true
+  },
+  {
+    "id": "037_17",
+    "name": "Huyên Đông Sơn",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 16,
+    "Active": true
+  },
+  {
+    "id": "037_18",
+    "name": "Huyên Quảng Xương",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 17,
+    "Active": true
+  },
+  {
+    "id": "037_19",
+    "name": "Nông Cống",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 18,
+    "Active": true
+  },
+  {
+    "id": "037_20",
+    "name": "Hà Trung",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 19,
+    "Active": true
+  },
+  {
+    "id": "037_21",
+    "name": "Hậu Lộc",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 20,
+    "Active": true
+  },
+  {
+    "id": "037_22",
+    "name": "Nga Sơn",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 21,
+    "Active": true
+  },
+  {
+    "id": "037_23",
+    "name": "Thiệu Hóa",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 22,
+    "Active": true
+  },
+  {
+    "id": "037_24",
+    "name": "Thọ Xuân",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 23,
+    "Active": true
+  },
+  {
+    "id": "037_25",
+    "name": "Tĩnh Gia",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 24,
+    "Active": true
+  },
+  {
+    "id": "037_26",
+    "name": "Triệu Sơn",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 25,
+    "Active": true
+  },
+  {
+    "id": "037_27",
+    "name": "Yên Định",
+    "cityId": "037",
+    "Description": "940000",
+    "Sorted": 26,
+    "Active": true
+  },
+  {
+    "id": "0383_01",
+    "name": "Vinh",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0383_02",
+    "name": "Cửa Lò",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0383_03",
+    "name": "Anh Sơn",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0383_04",
+    "name": "Con Cuông",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0383_05",
+    "name": "Diễn Châu",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0383_06",
+    "name": "Đô Lương",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0383_07",
+    "name": "Hưng Nguyên",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0383_08",
+    "name": "Quỳ Châu",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0383_09",
+    "name": "Kỳ Sơn",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0383_10",
+    "name": "Nam Đàn",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "0383_11",
+    "name": "Nghi Lộc",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "0383_12",
+    "name": "Nghĩa Đàn",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "0383_13",
+    "name": "Quế Phong",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "0383_14",
+    "name": "Quỳ Hợp",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "0383_15",
+    "name": "Quỳnh Lưu",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 14,
+    "Active": true
+  },
+  {
+    "id": "0383_16",
+    "name": "Tân Kỳ",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 15,
+    "Active": true
+  },
+  {
+    "id": "0383_17",
+    "name": "Thanh Chương",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 16,
+    "Active": true
+  },
+  {
+    "id": "0383_18",
+    "name": "Tương Dương",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 17,
+    "Active": true
+  },
+  {
+    "id": "0383_19",
+    "name": "Yên Thành",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 18,
+    "Active": true
+  },
+  {
+    "id": "0383_20",
+    "name": "Thái Hòa",
+    "cityId": "0383",
+    "Description": "290000",
+    "Sorted": 19,
+    "Active": true
+  },
+  {
+    "id": "039_01",
+    "name": "Hà Tĩnh",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "039_02",
+    "name": "Hồng Lĩnh",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "039_03",
+    "name": "Cẩm Xuyên",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "039_04",
+    "name": "Can Lộc",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "039_05",
+    "name": "Đức Thọ",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "039_06",
+    "name": "Hương Khê",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "039_07",
+    "name": "Hương Sơn",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "039_08",
+    "name": "Kỳ Anh",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "039_09",
+    "name": "Nghi Xuân",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "039_10",
+    "name": "Thạch Hà",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "039_11",
+    "name": "Vũ Quang",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "039_12",
+    "name": "Lộc Hà",
+    "cityId": "039",
+    "Description": "180000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "04_01",
+    "name": "Ba Đình",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "04_02",
+    "name": "Cầu Giấy",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "04_03",
+    "name": "Đống Đa",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "04_04",
+    "name": "Hai Bà Trưng",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "04_05",
+    "name": "Hoàn Kiếm",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "04_06",
+    "name": "Hoàng Mai",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "04_07",
+    "name": "Long Biên",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "04_08",
+    "name": "Tây Hồ",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "04_09",
+    "name": "Thanh Xuân",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "04_10",
+    "name": "Đông Anh",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "04_11",
+    "name": "Gia Lâm",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "04_12",
+    "name": "Sóc Sơn",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "04_13",
+    "name": "Thanh Trì",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "04_14",
+    "name": "Từ Liêm",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "04_15",
+    "name": "Hà Đông",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 14,
+    "Active": true
+  },
+  {
+    "id": "04_16",
+    "name": "Sơn Tây",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 15,
+    "Active": true
+  },
+  {
+    "id": "04_17",
+    "name": "Ba Vì",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 16,
+    "Active": true
+  },
+  {
+    "id": "04_18",
+    "name": "Chương Mỹ",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 17,
+    "Active": true
+  },
+  {
+    "id": "04_19",
+    "name": "Đan Phượng",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 18,
+    "Active": true
+  },
+  {
+    "id": "04_20",
+    "name": "Hoài Đức",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 19,
+    "Active": true
+  },
+  {
+    "id": "04_21",
+    "name": "Mỹ Đức",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 20,
+    "Active": true
+  },
+  {
+    "id": "04_22",
+    "name": "Phú Xuyên",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 21,
+    "Active": true
+  },
+  {
+    "id": "04_23",
+    "name": "Phúc Thọ",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 22,
+    "Active": true
+  },
+  {
+    "id": "04_24",
+    "name": "Quốc Oai",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 23,
+    "Active": true
+  },
+  {
+    "id": "04_25",
+    "name": "Thạch Thất",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 24,
+    "Active": true
+  },
+  {
+    "id": "04_26",
+    "name": "Thanh Oai",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 25,
+    "Active": true
+  },
+  {
+    "id": "04_27",
+    "name": "Thường Tín",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 26,
+    "Active": true
+  },
+  {
+    "id": "04_28",
+    "name": "Ứng Hòa",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 27,
+    "Active": true
+  },
+  {
+    "id": "04_29",
+    "name": "Mê Linh",
+    "cityId": "04",
+    "Description": "100000",
+    "Sorted": 28,
+    "Active": true
+  },
+  {
+    "id": "050_01",
+    "name": "TP.Buôn Ma Thuột",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "050_02",
+    "name": "Ea H leo",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "050_03",
+    "name": "Ea Súp",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "050_04",
+    "name": "Krông Năng",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "050_05",
+    "name": "Krông Buk",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "050_06",
+    "name": "Buôn Đôn",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "050_07",
+    "name": "Cư M gar",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "050_08",
+    "name": "Ea Kar",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "050_09",
+    "name": "M Drăk",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "050_10",
+    "name": "Krông Pak",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "050_11",
+    "name": "Krông Ana",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "050_12",
+    "name": "Krông Bông",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "050_13",
+    "name": "Lăk",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "050_14",
+    "name": "Cư Kuin",
+    "cityId": "050",
+    "Description": "630000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "0501_01",
+    "name": "Đắk Mil",
+    "cityId": "0501",
+    "Description": "810000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0501_02",
+    "name": "Đắk Nông",
+    "cityId": "0501",
+    "Description": "810000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0501_03",
+    "name": "Đắk RLấp",
+    "cityId": "0501",
+    "Description": "810000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0501_04",
+    "name": "Đắk Song",
+    "cityId": "0501",
+    "Description": "810000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0501_05",
+    "name": "Krông Nô",
+    "cityId": "0501",
+    "Description": "810000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0501_06",
+    "name": "Tuy Đức",
+    "cityId": "0501",
+    "Description": "810000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0501_07",
+    "name": "TX.Gia Nghĩa",
+    "cityId": "0501",
+    "Description": "810000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0510_01",
+    "name": "Tam Kỳ",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0510_02",
+    "name": "Hội An",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0510_03",
+    "name": "Duy Xuyên",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0510_04",
+    "name": "Đại Lộc",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0510_05",
+    "name": "Điện Bàn",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0510_06",
+    "name": "Đông Giang",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0510_07",
+    "name": "Nam Giang",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0510_08",
+    "name": "Tây Giang",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0510_09",
+    "name": "Quế Sơn",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0510_10",
+    "name": "Hiệp Đức",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "0510_11",
+    "name": "Núi Thành",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "0510_12",
+    "name": "Nam Trà My",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "0510_13",
+    "name": "Bắc Trà My",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "0510_14",
+    "name": "Phú Ninh",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "0510_15",
+    "name": "Phước Sơn",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 14,
+    "Active": true
+  },
+  {
+    "id": "0510_16",
+    "name": "Thăng Bình",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 15,
+    "Active": true
+  },
+  {
+    "id": "0510_17",
+    "name": "Tiên Phước",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 16,
+    "Active": true
+  },
+  {
+    "id": "0510_18",
+    "name": "Nông Sơn",
+    "cityId": "0510",
+    "Description": "520000",
+    "Sorted": 17,
+    "Active": true
+  },
+  {
+    "id": "0511_01",
+    "name": "Q.Hải Châu",
+    "cityId": "0511",
+    "Description": "550000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0511_02",
+    "name": "Q.Thanh Khê",
+    "cityId": "0511",
+    "Description": "550000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0511_03",
+    "name": "Q.Sơn Trà",
+    "cityId": "0511",
+    "Description": "550000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0511_04",
+    "name": "Q.Ngũ Hành Sơn",
+    "cityId": "0511",
+    "Description": "550000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0511_05",
+    "name": "Q.Liên Chiểu",
+    "cityId": "0511",
+    "Description": "550000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0511_06",
+    "name": "Hòa Vang",
+    "cityId": "0511",
+    "Description": "550000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0511_07",
+    "name": "Q.Cẩm Lệ",
+    "cityId": "0511",
+    "Description": "550000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0511_08",
+    "name": "Hoàng Sa",
+    "cityId": "0511",
+    "Description": "550000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "052_01",
+    "name": "Đồng Hới",
+    "cityId": "052",
+    "Description": "200000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "052_02",
+    "name": "Bố Trạch",
+    "cityId": "052",
+    "Description": "200000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "052_03",
+    "name": "Lệ Thủy",
+    "cityId": "052",
+    "Description": "200000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "052_04",
+    "name": "Minh Hóa",
+    "cityId": "052",
+    "Description": "200000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "052_05",
+    "name": "Quảng Trạch",
+    "cityId": "052",
+    "Description": "200000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "052_06",
+    "name": "Quảng Ninh",
+    "cityId": "052",
+    "Description": "200000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "052_07",
+    "name": "Tuyên Hóa",
+    "cityId": "052",
+    "Description": "200000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "053_01",
+    "name": "TX.Đông Hà",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "053_02",
+    "name": "TX.Quảng Trị",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "053_03",
+    "name": "Cam Lộ",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "053_04",
+    "name": "Cồn Cỏ",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "053_05",
+    "name": "Đa Krông",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "053_06",
+    "name": "Gio Linh",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "053_07",
+    "name": "Hải Lăng",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "053_08",
+    "name": "Hướng Hóa",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "053_09",
+    "name": "Triệu Phong",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "053_10",
+    "name": "Vĩnh Linh",
+    "cityId": "053",
+    "Description": "840000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "054_01",
+    "name": "TP.Huế",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "054_02",
+    "name": "A Lưới",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "054_03",
+    "name": "Hương Thủy",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "054_04",
+    "name": "Hương Trà",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "054_05",
+    "name": "Nam Đông",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "054_06",
+    "name": "Phú Lộc",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "054_07",
+    "name": "Phú Vang",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "054_08",
+    "name": "Quảng Điền",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "054_09",
+    "name": "Phong Điền",
+    "cityId": "054",
+    "Description": "530000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "055_01",
+    "name": "TP. Quảng Ngãi",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "055_02",
+    "name": "Ba Tơ",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "055_03",
+    "name": "Bình Sơn",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "055_04",
+    "name": "Đức Phổ",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "055_05",
+    "name": "Minh Long",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "055_06",
+    "name": "Mộ Đức",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "055_07",
+    "name": "Nghĩa Hành",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "055_08",
+    "name": "Sơn Hà",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "055_09",
+    "name": "Sơn Tây",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "055_10",
+    "name": "Sơn Tịnh",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "055_11",
+    "name": "Tây Trà",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "055_12",
+    "name": "Trà Bồng",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "055_13",
+    "name": "Tư Nghĩa",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "055_14",
+    "name": "đảo Lý Sơn",
+    "cityId": "055",
+    "Description": "950000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "056_01",
+    "name": "TP.Qui Nhơn",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "056_02",
+    "name": "An Lão",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "056_03",
+    "name": "An Nhơn",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "056_04",
+    "name": "Hoài Ân",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "056_05",
+    "name": "Hoài Nhơn",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "056_06",
+    "name": "Phù Cát",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "056_07",
+    "name": "Phù Mỹ",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "056_08",
+    "name": "Tuy Phước",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "056_09",
+    "name": "Tây Sơn",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "056_10",
+    "name": "Vân Canh",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "056_11",
+    "name": "Vĩnh Thạnh",
+    "cityId": "056",
+    "Description": "820000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "057_01",
+    "name": "Tuy Hòa",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "057_02",
+    "name": "Đồng Xuân",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "057_03",
+    "name": "Sông Cầu",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "057_04",
+    "name": "Tuy An",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "057_05",
+    "name": "Sơn Hòa",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "057_06",
+    "name": "Phú Hòa",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "057_07",
+    "name": "Đông Hòa",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "057_08",
+    "name": "Sông Hinh",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "057_09",
+    "name": "Tây Hòa",
+    "cityId": "057",
+    "Description": "570000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "058_01",
+    "name": "TP.Nha Trang",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "058_02",
+    "name": "TX.Cam Ranh",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "058_03",
+    "name": "Vạn Ninh",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "058_04",
+    "name": "Ninh Hòa",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "058_05",
+    "name": "Diên Khánh",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "058_06",
+    "name": "Khánh Vĩnh",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "058_07",
+    "name": "Khánh Sơn",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "058_08",
+    "name": "đảo Trường Sa",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "058_09",
+    "name": "Cam Lâm",
+    "cityId": "058",
+    "Description": "390000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "059_01",
+    "name": " TP.Pleiku",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "059_02",
+    "name": " TX.An Khê",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "059_03",
+    "name": " Ayun Pa",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "059_04",
+    "name": " Chư Păh",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "059_05",
+    "name": " Chư Prông",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "059_06",
+    "name": " Chư Sê",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "059_07",
+    "name": " Đắk Đoa",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "059_08",
+    "name": " Đắk Pơ",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "059_09",
+    "name": " Đức Cơ",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "059_10",
+    "name": " Ia Grai",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "059_11",
+    "name": " Ia Pa",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "059_12",
+    "name": " KBang",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "059_13",
+    "name": " Kông Chro",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "059_14",
+    "name": " Krông Pa",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "059_15",
+    "name": " Mang Yang",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 14,
+    "Active": true
+  },
+  {
+    "id": "059_16",
+    "name": " Phú Thiện",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 15,
+    "Active": true
+  },
+  {
+    "id": "059_17",
+    "name": "Chư Pưh",
+    "cityId": "059",
+    "Description": "310000",
+    "Sorted": 16,
+    "Active": true
+  },
+  {
+    "id": "060_01",
+    "name": "TX.Kon Tum",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "060_02",
+    "name": "Đắk Glei",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "060_03",
+    "name": "Ngọc Hồi",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "060_04",
+    "name": "Đắk Tô",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "060_05",
+    "name": "Kon Rẫy",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "060_06",
+    "name": "Kon Plông",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "060_07",
+    "name": "Đắk Hà",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "060_08",
+    "name": "Sa Thầy",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "060_09",
+    "name": "Tu Mơ Rông",
+    "cityId": "060",
+    "Description": "330000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "061_01",
+    "name": "TP. Biên Hòa",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "061_02",
+    "name": "Định Quán",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "061_03",
+    "name": "Long Thành",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "061_04",
+    "name": "Nhơn Trạch",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "061_05",
+    "name": "Tân Phú",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "061_06",
+    "name": "Thống Nhất",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "061_07",
+    "name": "Vĩnh Cửu",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "061_08",
+    "name": "Xuân Lộc",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "061_09",
+    "name": "Cẩm Mỹ",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "061_10",
+    "name": "Trảng Bom",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": -1,
+    "Active": true
+  },
+  {
+    "id": "061_11",
+    "name": "Long Khánh",
+    "cityId": "061",
+    "Description": "870000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "062_01",
+    "name": "TP.Phan Thiết",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "062_02",
+    "name": "TX.Lagi",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "062_03",
+    "name": "Tuy Phong",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "062_04",
+    "name": "Bắc Bình",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "062_05",
+    "name": "Hàm Thuận Bắc",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "062_06",
+    "name": "Hàm Thuận Nam",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "062_07",
+    "name": "Tánh Linh",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "062_08",
+    "name": "Hàm Tân",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "062_09",
+    "name": "Đức Linh",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "062_10",
+    "name": "đảo Phú Quý",
+    "cityId": "062",
+    "Description": "800000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "063_01",
+    "name": "TP.Đà Lạt",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "063_02",
+    "name": "TX.Bảo Lộc",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "063_03",
+    "name": "Lạc Dương",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "063_04",
+    "name": "Đơn Dương",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "063_05",
+    "name": "Đức Trọng",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "063_06",
+    "name": "Lâm Hà",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "063_07",
+    "name": "Di Linh",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "063_08",
+    "name": "Đạ Huoai",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "063_09",
+    "name": "Đạ Tẻ",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "063_10",
+    "name": "Cát Tiên",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "063_11",
+    "name": "Đam Rông",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "063_12",
+    "name": "Bảo Lâm",
+    "cityId": "063",
+    "Description": "460000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "064_01",
+    "name": "TP. Vũng Tàu",
+    "cityId": "064",
+    "Description": "790000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "064_02",
+    "name": "TX. Bà Rịa",
+    "cityId": "064",
+    "Description": "790000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "064_03",
+    "name": "Châu Đức",
+    "cityId": "064",
+    "Description": "790000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "064_04",
+    "name": "Đất Đỏ",
+    "cityId": "064",
+    "Description": "790000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "064_05",
+    "name": "Long Điền",
+    "cityId": "064",
+    "Description": "790000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "064_06",
+    "name": "Tân Thành",
+    "cityId": "064",
+    "Description": "790000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "064_07",
+    "name": "Xuyên Mộc",
+    "cityId": "064",
+    "Description": "790000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "064_08",
+    "name": "Côn Đảo",
+    "cityId": "064",
+    "Description": "790000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0650_01",
+    "name": "TP. Thủ Dầu Một",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0650_02",
+    "name": "Dầu Tiếng",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0650_03",
+    "name": "Phú Giáo",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0650_04",
+    "name": "TX. Dĩ An",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0650_05",
+    "name": "TX. Thuận An",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0650_06",
+    "name": "Bắc Tân Uyên",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0650_07",
+    "name": "TX. Tân Uyên",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0650_08",
+    "name": "Bàu Bàng",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0650_09",
+    "name": "TX. Bến Cát",
+    "cityId": "0650",
+    "Description": "590000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0651_01",
+    "name": "TX. Đồng Xoài",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0651_02",
+    "name": "Bình Long",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0651_03",
+    "name": "Bù Đăng",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0651_04",
+    "name": "Bù Đốp",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0651_05",
+    "name": "Chơn Thành",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0651_06",
+    "name": "Đồng Phú",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0651_07",
+    "name": "Lộc Ninh",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0651_08",
+    "name": "Phước Long",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0651_09",
+    "name": "Hớn Quản",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0651_10",
+    "name": "Bù Gia Mập",
+    "cityId": "0651",
+    "Description": "830000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "066_01",
+    "name": "Tây Ninh",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "066_02",
+    "name": "Tân Biên",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "066_03",
+    "name": "Dương Minh Châu",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "066_04",
+    "name": "Hòa Thành",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "066_05",
+    "name": "Bến Cầu",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "066_06",
+    "name": "Gò Dầu",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "066_07",
+    "name": "Trảng Bàng",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "066_08",
+    "name": "Châu Thành",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "066_09",
+    "name": "Tân Châu",
+    "cityId": "066",
+    "Description": "440000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "067_01",
+    "name": "TP. Cao Lãnh",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "067_02",
+    "name": "TP. Sa Đéc",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "067_03",
+    "name": "Tân Hồng",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "067_04",
+    "name": "Hồng Ngự",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "067_05",
+    "name": "Tam Nông",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "067_06",
+    "name": "Thanh Bình",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "067_07",
+    "name": "Tháp Mười",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "067_08",
+    "name": "Cao Lãnh",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "067_09",
+    "name": "Lấp Vò",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "067_10",
+    "name": "Lai Vung",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "067_11",
+    "name": "Châu Thành",
+    "cityId": "067",
+    "Description": "600000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "068_01",
+    "name": "TP.Phan Rang-Tháp Chàm",
+    "cityId": "068",
+    "Description": "510000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "068_02",
+    "name": "Ninh Sơn",
+    "cityId": "068",
+    "Description": "510000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "068_03",
+    "name": "Bác Ái",
+    "cityId": "068",
+    "Description": "510000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "068_04",
+    "name": "Ninh Hải",
+    "cityId": "068",
+    "Description": "510000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "068_05",
+    "name": "Ninh Phước",
+    "cityId": "068",
+    "Description": "510000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "068_06",
+    "name": "Thuận Bắc",
+    "cityId": "068",
+    "Description": "510000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "070_01",
+    "name": "TP.Vĩnh Long",
+    "cityId": "070",
+    "Description": "890000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "070_02",
+    "name": "Long Hồ",
+    "cityId": "070",
+    "Description": "890000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "070_03",
+    "name": "Mang Thít",
+    "cityId": "070",
+    "Description": "890000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "070_04",
+    "name": "Bình Minh",
+    "cityId": "070",
+    "Description": "890000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "070_05",
+    "name": "Tam Bình",
+    "cityId": "070",
+    "Description": "890000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "070_06",
+    "name": "Trà Ôn",
+    "cityId": "070",
+    "Description": "890000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "070_07",
+    "name": "Vũng Liêm",
+    "cityId": "070",
+    "Description": "890000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "070_08",
+    "name": "Bình Tân",
+    "cityId": "070",
+    "Description": "890000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0710_01",
+    "name": "Q.Ninh Kiều",
+    "cityId": "0710",
+    "Description": "270000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0710_02",
+    "name": "Q.Bình Thủy",
+    "cityId": "0710",
+    "Description": "270000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0710_03",
+    "name": "Q.Cái Răng",
+    "cityId": "0710",
+    "Description": "270000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0710_04",
+    "name": "Q.Ô Môn",
+    "cityId": "0710",
+    "Description": "270000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0710_05",
+    "name": "Phong Điền",
+    "cityId": "0710",
+    "Description": "270000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0710_06",
+    "name": "Cờ Đỏ",
+    "cityId": "0710",
+    "Description": "270000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0710_07",
+    "name": "Thốt Nốt",
+    "cityId": "0710",
+    "Description": "270000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0710_08",
+    "name": "Vĩnh Thạnh",
+    "cityId": "0710",
+    "Description": "270000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0711_01",
+    "name": "TX.Vị Thanh",
+    "cityId": "0711",
+    "Description": "700000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0711_02",
+    "name": "TX.Tân Hiệp",
+    "cityId": "0711",
+    "Description": "700000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0711_03",
+    "name": "Phụng Hiệp",
+    "cityId": "0711",
+    "Description": "700000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0711_04",
+    "name": "Vị Thủy",
+    "cityId": "0711",
+    "Description": "700000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0711_05",
+    "name": "Long Mỹ",
+    "cityId": "0711",
+    "Description": "700000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0711_06",
+    "name": "Châu Thành A",
+    "cityId": "0711",
+    "Description": "700000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0711_07",
+    "name": "Châu Thành",
+    "cityId": "0711",
+    "Description": "700000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "072_01",
+    "name": "TP.Tân An",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "072_02",
+    "name": "Mộc Hoá",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "072_03",
+    "name": "Vĩnh Hưng",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "072_04",
+    "name": "Tân Thạnh",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "072_05",
+    "name": "Thạnh Hoá",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "072_06",
+    "name": "Đức Huệ",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "072_07",
+    "name": "Bến Lức",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "072_08",
+    "name": "Thủ Thừa",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "072_09",
+    "name": "Đức Hoà",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "072_10",
+    "name": "Tân Trụ",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "072_11",
+    "name": "Cần Đước",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "072_12",
+    "name": "Châu Thành",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "072_13",
+    "name": "Cần Giuộc",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "072_14",
+    "name": "Tân Hưng",
+    "cityId": "072",
+    "Description": "430000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "073_01",
+    "name": "TP. Mỹ Tho",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "073_02",
+    "name": "TX. Gò Công",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "073_03",
+    "name": "Cái Bè",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "073_04",
+    "name": "Cai Lậy",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": -1,
+    "Active": true
+  },
+  {
+    "id": "073_05",
+    "name": "Tân Phước",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "073_06",
+    "name": "Chợ Gạo",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "073_07",
+    "name": "Gò Công Tây",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "073_08",
+    "name": "Gò Công Đông",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "073_09",
+    "name": "Châu Thành",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "073_10",
+    "name": "Tân Phú Đông",
+    "cityId": "073",
+    "Description": "890000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "073_11",
+    "name": "TX. Cai Lậy",
+    "cityId": "073",
+    "Description": "",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "074_01",
+    "name": "TP.Trà Vinh",
+    "cityId": "074",
+    "Description": "280000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "074_02",
+    "name": "Càng Long",
+    "cityId": "074",
+    "Description": "280000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "074_03",
+    "name": "Cầu Kè",
+    "cityId": "074",
+    "Description": "280000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "074_04",
+    "name": "Tiểu Cần",
+    "cityId": "074",
+    "Description": "280000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "074_05",
+    "name": "Cầu Ngang",
+    "cityId": "074",
+    "Description": "280000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "074_06",
+    "name": "Trà Cú",
+    "cityId": "074",
+    "Description": "280000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "074_07",
+    "name": "Duyên Hải",
+    "cityId": "074",
+    "Description": "280000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "074_08",
+    "name": "Châu Thành",
+    "cityId": "074",
+    "Description": "280000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "075_01",
+    "name": "TP.Bến Tre",
+    "cityId": "075",
+    "Description": "930000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "075_02",
+    "name": "Chợ Lách",
+    "cityId": "075",
+    "Description": "930000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "075_03",
+    "name": "Mõ Cày",
+    "cityId": "075",
+    "Description": "930000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "075_04",
+    "name": "Giồng Trôm",
+    "cityId": "075",
+    "Description": "930000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "075_05",
+    "name": "Bình Đại",
+    "cityId": "075",
+    "Description": "930000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "075_06",
+    "name": "Ba Tri",
+    "cityId": "075",
+    "Description": "930000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "075_07",
+    "name": "Thạnh Phú",
+    "cityId": "075",
+    "Description": "930000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "075_08",
+    "name": "Châu Thành",
+    "cityId": "075",
+    "Description": "930000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "076_01",
+    "name": "TP.Long Xuyên",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "076_02",
+    "name": "TX.Châu Đốc",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "076_03",
+    "name": "An Phú",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "076_04",
+    "name": "Châu Phú",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "076_05",
+    "name": "Phú Tân",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "076_06",
+    "name": "Tân Châu",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "076_07",
+    "name": "Thoại Sơn",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "076_08",
+    "name": "Tịnh Biên",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "076_09",
+    "name": "Tri Tôn",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "076_10",
+    "name": "Châu Thành",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "076_11",
+    "name": "Chợ Mới",
+    "cityId": "076",
+    "Description": "880000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "077_01",
+    "name": "TP.Rạch Giá",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "077_02",
+    "name": "TX.Hà Tiên",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "077_03",
+    "name": "An Biên",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "077_04",
+    "name": "An Minh",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "077_05",
+    "name": "Giồng Riềng",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "077_06",
+    "name": "Gò Quao",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "077_07",
+    "name": "Hòn Đất",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "077_08",
+    "name": "Kiên Hải",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "077_09",
+    "name": "Kiên Lương",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "077_10",
+    "name": "Phú Quốc",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "077_11",
+    "name": "Tân Hiệp",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "077_12",
+    "name": "Vĩnh Thuận",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "077_13",
+    "name": "Châu Thành",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "077_14",
+    "name": "U Minh Thượng",
+    "cityId": "077",
+    "Description": "240000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "0780_01",
+    "name": "TP.Cà Mau",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0780_02",
+    "name": "Thới Bình",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0780_03",
+    "name": "U Minh",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0780_04",
+    "name": "Trần Văn Thời",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0780_05",
+    "name": "Cái Nước",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0780_06",
+    "name": "Đầm Dơi",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0780_07",
+    "name": "Ngọc Hiển",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "0780_08",
+    "name": "Năm Căn",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "0780_09",
+    "name": "Phú Tân",
+    "cityId": "0780",
+    "Description": "970000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "0781_01",
+    "name": "TX.Bạc Liêu",
+    "cityId": "0781",
+    "Description": "260000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "0781_02",
+    "name": "Phước Long",
+    "cityId": "0781",
+    "Description": "260000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "0781_03",
+    "name": "Hồng Dân",
+    "cityId": "0781",
+    "Description": "260000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "0781_04",
+    "name": "Vĩnh Lợi",
+    "cityId": "0781",
+    "Description": "260000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "0781_05",
+    "name": "Giá Rai",
+    "cityId": "0781",
+    "Description": "260000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "0781_06",
+    "name": "Đông Hải",
+    "cityId": "0781",
+    "Description": "260000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "0781_07",
+    "name": "Hòa Bình",
+    "cityId": "0781",
+    "Description": "260000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "079_001",
+    "name": "TP.Sóc Trăng",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "079_002",
+    "name": "Kế Sách",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "079_003",
+    "name": "Long Phú",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "079_004",
+    "name": "Cù Lao Dung",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "079_005",
+    "name": "Mỹ Tú",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "079_006",
+    "name": "Mỹ Xuyên",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "079_007",
+    "name": "Thạnh Trị",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "079_008",
+    "name": "Vĩnh Châu",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "079_009",
+    "name": "TT. Ngã Năm",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "079_010",
+    "name": "Trần Đề",
+    "cityId": "079",
+    "Description": "410000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "08_01",
+    "name": "Quận 1",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 0,
+    "Active": true
+  },
+  {
+    "id": "08_02",
+    "name": "Quận 2",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 1,
+    "Active": true
+  },
+  {
+    "id": "08_03",
+    "name": "Quận 3",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 2,
+    "Active": true
+  },
+  {
+    "id": "08_04",
+    "name": "Quận 4",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 3,
+    "Active": true
+  },
+  {
+    "id": "08_05",
+    "name": "Quận 5",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 4,
+    "Active": true
+  },
+  {
+    "id": "08_06",
+    "name": "Quận 6",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 5,
+    "Active": true
+  },
+  {
+    "id": "08_07",
+    "name": "Quận 7",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 6,
+    "Active": true
+  },
+  {
+    "id": "08_08",
+    "name": "Quận 8",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 7,
+    "Active": true
+  },
+  {
+    "id": "08_09",
+    "name": "Quận 9",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 8,
+    "Active": true
+  },
+  {
+    "id": "08_10",
+    "name": "Quận 10",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 9,
+    "Active": true
+  },
+  {
+    "id": "08_11",
+    "name": "Quận 11",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 10,
+    "Active": true
+  },
+  {
+    "id": "08_12",
+    "name": "Quận 12",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 11,
+    "Active": true
+  },
+  {
+    "id": "08_13",
+    "name": "Bình Tân",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 12,
+    "Active": true
+  },
+  {
+    "id": "08_14",
+    "name": "Bình Thạnh",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 13,
+    "Active": true
+  },
+  {
+    "id": "08_15",
+    "name": "Gò Vấp",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 14,
+    "Active": true
+  },
+  {
+    "id": "08_16",
+    "name": "Phú Nhuận",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 15,
+    "Active": true
+  },
+  {
+    "id": "08_17",
+    "name": "Tân Bình",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 16,
+    "Active": true
+  },
+  {
+    "id": "08_18",
+    "name": "Tân Phú",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 17,
+    "Active": true
+  },
+  {
+    "id": "08_19",
+    "name": "Thủ Đức",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 18,
+    "Active": true
+  },
+  {
+    "id": "08_20",
+    "name": "Bình Chánh",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 19,
+    "Active": true
+  },
+  {
+    "id": "08_21",
+    "name": "Cần Giờ",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 20,
+    "Active": true
+  },
+  {
+    "id": "08_22",
+    "name": "Củ Chi",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": -5,
+    "Active": true
+  },
+  {
+    "id": "08_23",
+    "name": "Hóc Môn",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": -4,
+    "Active": true
+  },
+  {
+    "id": "08_24",
+    "name": "Nhà Bè",
+    "cityId": "08",
+    "Description": "700000",
+    "Sorted": 23,
+    "Active": true
+  }
+]

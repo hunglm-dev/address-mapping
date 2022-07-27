@@ -3,9 +3,9 @@ package com.hunglm.address.mapping.entities.his;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.hunglm.address.mapping.entities.ESDocument;
 import com.hunglm.address.mapping.entities.Normalizeable;
-import com.hunglm.address.mapping.utils.StringUtils;
-import lombok.*;
-import lombok.experimental.Accessors;
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 

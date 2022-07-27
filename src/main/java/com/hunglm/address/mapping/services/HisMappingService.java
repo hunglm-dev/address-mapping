@@ -122,19 +122,21 @@ public class HisMappingService {
     if (!hitsMatch.isEmpty()) {
       hisDistrict = hitsMatch.get(0).source();
       assert hisDistrict != null;
-      log.warn("DISTRICT HIS={} YM={} | CHid={} CYid={} | val={}",
-          hisDistrict.getName(), district.getName(),
-          mappedCity.getCityId(), mappedCity.getHisCityId(),
-          elastic.normalizedSearch(district.getName(), addressDictionary.getDistrictDic()));
+//      log.warn("DISTRICT HIS={} YM={} | CHid={} CYid={} | val={}",
+//          hisDistrict.getName(), district.getName(),
+//          mappedCity.getCityId(), mappedCity.getHisCityId(),
+//          elastic.normalizedSearch(district.getName(), addressDictionary.getDistrictDic()));
     } else {
-      log.warn("Cannot find District {} | mappedCity {}. SearchValue={}", district, mappedCity,
-          elastic.normalizedSearch(district.getName(), addressDictionary.getDistrictDic()));
+      if(!district.getName().equalsIgnoreCase("Không xác định")) {
+        log.warn("Cannot find District {} | mappedCity {}. SearchValue={}", district, mappedCity,
+            elastic.normalizedSearch(district.getName(), addressDictionary.getDistrictDic()));
+      }
     }
     return hisDistrict;
   }
 
   private void handleUndefinedDistrict(MappedCity mappedCity, District district) throws IOException {
-    log.warn("Handle Undefined district. MappedCity: {}", mappedCity);
+//    log.warn("Handle Undefined district. MappedCity: {}", mappedCity);
     String undefinedCityName = "Không xác định";
     District undefinedDistrict = new District();
     undefinedDistrict.setName(undefinedCityName);
@@ -216,7 +218,7 @@ public class HisMappingService {
           mappedDistrict.getHisDistrictId(), mappedDistrict.getDistrictId(),
           elastic.normalizedSearch(ward.getName(), addressDictionary.getWardDic()));
     } else {
-      log.warn("Cannot find District {} | mappedCity {}. SearchValue={}", ward, mappedDistrict,
+      log.warn("Cannot find Ward {} | mappedDistrict {}. SearchValue={}", ward, mappedDistrict,
           elastic.normalizedSearch(ward.getName(), addressDictionary.getWardDic()));
     }
     return hisWard;

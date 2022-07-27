@@ -142,6 +142,7 @@ public class IndexRefresher {
         String finalName = normalizeable.getName();
         for (String dic : dictionary) {
             if (normalizeable.getName().startsWith(dic)) {
+                log.info("Match dic: {}", dic);
                 finalName = finalName.replace(dic, "");
                 break;
             }
